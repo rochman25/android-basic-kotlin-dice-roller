@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AndroidBasicKotlinDiceRoller</string>
     <string name="roll">Roll</string>
+    <string name="dice_images">dice_images</string>
 </resources>
